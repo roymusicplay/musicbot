@@ -4,7 +4,7 @@
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
   "repository": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
-  "logo": "https://telegra.ph/file/938c1c08c53972280185c.jpg"
+  "logo": "https://telegra.ph/file/938c1c08c53972280185c.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
