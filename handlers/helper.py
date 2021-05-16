@@ -19,7 +19,7 @@ async def helper(ok, message: Message):
 
 /skip  ⏩To the next song 
 
-/end 🚫to stop playing
+/stop 🚫to stop playing
 
 /pause ⏸️to pause the song
 
