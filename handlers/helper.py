@@ -31,4 +31,4 @@ async def helper(ok, message: Message):
 
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
-    await message.reply_text(f"**{bn} :-** Hey! DM me to get all the commands 😉")
+    await message.reply_text(f"**{bn} :-** Hey! [DM](http://t.me/MAFIA_MUSIC_ROBOT?start=help_) me to get all the commands 😉")
