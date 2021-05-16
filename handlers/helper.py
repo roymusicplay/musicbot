@@ -32,7 +32,7 @@ async def helper(ok, message: Message):
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
     await message.reply_text(f"**{bn} :-** Hey! DM me to get all the commands 😉")
-                            reply_markup=InlineKeyboardMarkup(
+        reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
@@ -47,3 +47,4 @@ async def ghelp(_, message: Message):
             ]
         )
     )
+
