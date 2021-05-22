@@ -1,10 +1,10 @@
 {
-  "name": "Mafiamusicbot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "ԃ3ʋιʅɱυʂιƈႦσƚ",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @D3_krish.",
   "keywords": ["music", "voicechat", "telegram"],
-  "website": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
-  "repository": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
-  "logo": "https://telegra.ph/file/938c1c08c53972280185c.jpg",
+  "website": "https://github.com/D3KRISH/D3VILMUSICBOT",
+  "repository": "https://github.com/D3KRISH/D3VILMUSICBOT",
+  "logo": "https://telegra.ph/file/e441ee749e930d4f99a6d.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -21,11 +21,11 @@
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from @Mafia_api_hash_extractorBot",
+      "description": "App ID from http://my.telegram.org",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from @Mafia_api_hash_extractorBot",
+      "description": "App hash from http://my.telegram.org",
       "required": true
     },
     "SUDO_USERS": {
