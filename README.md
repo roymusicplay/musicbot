@@ -1,6 +1,6 @@
-<h1 align="centre">🎶 𝐌𝐚𝐟𝐢𝐚𝐦𝐮𝐬𝐢𝐜𝐛𝐨𝐭 🎶</h1>
+<h1 align="centre">🎶 𝘿3𝙑𝙄𝙇ɱυʂιƈႦσƚ  🎶</h1>
 
-[![MAFIAMUSICBOT LOGO](https://telegra.ph/file/938c1c08c53972280185c.jpg)](https://t.me/MafiaBot_Support)
+[![D3VILMUSICBOT LOGO](https://telegra.ph/file/e441ee749e930d4f99a6d.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
 
 ## Requirements 📝
 
@@ -30,6 +30,6 @@ Get STRING_NAME from here:
 
 ## Credits
 
-- [Shinchan](https://github.com/Shinchan7222): main developer
+- [KRISH](https://github.com/D3KRISH): main developer
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
