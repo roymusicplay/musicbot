@@ -17,7 +17,7 @@
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@H1M4N5HU0P1/MafiaBotMusicPyrogramBot#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@D3krish/D3VILMusicPyrogramBot#main.py)
 
 ### Mandatory Vars.
 
