@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 𝘿3𝙑𝙄𝙇ɱυʂιƈႦσƚ  🎶</h1>
+<h1 align="centre">🎶 ɖ3ⱱᶖȴ ꬺᶙȿᶖɕɓꝍȶ  🎶</h1>
 
 [![D3VILMUSICBOT LOGO](https://telegra.ph/file/e441ee749e930d4f99a6d.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
 
