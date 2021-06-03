@@ -18,12 +18,6 @@ Add me to your group and play music freely!**
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                     InlineKeyboardButton(
-                         "➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-
-
-            
-                [
                     InlineKeyboardButton(
                         "🛠 Source Code 🛠", url="https://github.com/D3KRISH/D3VILMUSICBOT")
                   ],[
