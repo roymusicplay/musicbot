@@ -1,6 +1,6 @@
-<h1 align="centre">🎶 ɖ3ⱱᶖȴ ꬺᶙȿᶖɕɓꝍȶ  🎶</h1>
+<h1 align="centre">🎶 ABHINAS MUSIC BOT 🎶</h1>
 
-[![D3VILMUSICBOT LOGO](https://telegra.ph/file/e441ee749e930d4f99a6d.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
+[![D3VILMUSICBOT LOGO](https://telegra.ph/file/be609bfb396b1ed998b37.jpg)](https://t.me/abhinasroy)
 
 ## Requirements 📝
 
